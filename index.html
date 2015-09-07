@@ -17,15 +17,7 @@ title: Chris Michael Shea
   </head>
   <body>
     <div class="wrapper">
-      <header>
-        <h1>Chris Michael Shea</h1>
-        <p>Jack of seven trades</p>
-        <p>
-          Co-host of
-          <a href="https://www.facebook.com/afineshowindeed">A Fine Show, Indeed</a>,
-          Wednesdays, 8:30pm, at Bushwick Public House
-        </p>
-      </header>
+      {% include header.html %}
       <section>
         {% for post in site.posts %}
         <article class="post">
