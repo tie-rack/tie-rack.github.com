@@ -2,9 +2,9 @@
 
 body {
   padding:50px;
-  font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color:#777;
-  font-weight:300;
+  font:18px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color:#444;
+  font-weight:500;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -96,7 +96,7 @@ img {
 }
 
 header {
-  width:270px;
+  width:240px;
   float:left;
   position:fixed;
 }
@@ -160,7 +160,7 @@ header ul a strong {
 }
 
 section {
-  width:500px;
+  width:530px;
   float:right;
   padding-bottom:50px;
 }
@@ -252,4 +252,20 @@ footer {
     font-size:12pt;
     color:#444;
   }
+}
+
+.unlinky {
+  color: #222;
+  font-weight: 600;
+}
+
+.date {
+    color: #777;
+    font-size: 70%;
+    text-align: right;
+}
+
+.post {
+    border-bottom: 1px dotted #333;
+    margin-bottom: 2em;
 }
