@@ -160,6 +160,12 @@ header ul a strong {
   color:#222;
 }
 
+header h1 a {
+  text-decoration: none;
+  color: #222;
+  font-weight: 700;
+}
+
 section {
   width:530px;
   float:right;
