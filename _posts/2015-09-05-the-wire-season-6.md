@@ -3,11 +3,6 @@ title: "The Wire, Season 6: Improv"
 layout: post
 ---
 
-Marlo Stanfield is back on the streets. Detective Sydnor is pulling
-Judge Phelan's ear about the squashed drug money investigation. And an
-early retirement sends Jimmy McNulty on a quest to get on a house
-team at the improv theater.
-
 **Episode One, "Yeah... And?"**: Judge Phelan makes a call to Commissioner
 Valchek, who clearly isn't listening. Marlo Stanfield starts over with
 a new crew that has an usual characteristic. McNulty's improv 101
@@ -56,9 +51,9 @@ meeting at the Baltimore Sun ends with everyone more confused than
 when it started. A sober McNulty learns to focus his walk-ons in a
 demanding 401 class.
 
-**Episode Ten, "Zip, Zap, Zop"**: In the thrilling 2-hour finale, everyone
-finds they need to get back to basics. Unable to get in on the police
-connection, Marlo returns to his old ways, and everyone's a
+**Episode Ten, "Zip, Zap, Zop"**: In the thrilling 2-hour finale,
+everyone finds they need to get back to basics. Unable to get in on
+the police connection, Marlo returns to his old ways and everyone's a
 target. Sydnor finds that even police corruption doesn't rate at the
 FBI. Slim Charles provides the drugs for Mayor Campbell's "drugs on
 the table" press conference. McNulty, failing to land a spot on a
